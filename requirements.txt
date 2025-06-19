@@ -3,7 +3,7 @@ Flask==1.1.2
 itsdangerous==1.1.0
 Jinja2==2.11.3
 Werkzeug==1.0.1
-Django==3.1.7
+django==4.2.22
 SQLAlchemy==2.0.36
 jeepney==0.8.0
 markupsafe==2.1.1
